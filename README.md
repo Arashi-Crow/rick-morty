@@ -1,4 +1,7 @@
-## Basic project with one component that uses a public api to fetch some data
+## Basic project 
+
+Single component that uses a public api to fetch some data 
+and renders the results in a container
 
 ## Available Scripts
 
